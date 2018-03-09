@@ -1,7 +1,11 @@
 # mltest
-Machine learning testing framework.
+Machine learning testing framework .
 
 [![Build Status](https://travis-ci.org/Thenerdstation/mltest.svg?branch=master)](https://travis-ci.org/Thenerdstation/mltest)
+[![GitHub license](https://img.shields.io/github/license/Thenerdstation/mltest.svg)](https://github.com/Thenerdstation/mltest/network)
+[![GitHub forks](https://img.shields.io/github/forks/Thenerdstation/mltest.svg)](https://github.com/Thenerdstation/mltest/network)
+[![GitHub stars](https://img.shields.io/github/stars/Thenerdstation/mltest.svg)](https://github.com/Thenerdstation/mltest/network)
+[![GitHub issues](https://img.shields.io/github/issues/Thenerdstation/mltest.svg)](https://github.com/Thenerdstation/mltest/network)
 
 ## How to install
 
